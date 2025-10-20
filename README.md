@@ -25,7 +25,7 @@ The project recreates the statistical behaviour of popular casino games to explo
 
 Install Pygame using:
 ```
-    pip install pygame
+pip install pygame
 ```
 --------------------
 
@@ -35,30 +35,30 @@ Follow these steps to launch the casino:
 1. **Download the project**
    - Click the green **Code** button above and select **Download ZIP**
    - Or clone it via terminal:
-     ```
-     git clone https://github.com/lucakukha/virtual-casino-project.git
-     ```
+```
+git clone https://github.com/lucakukha/virtual-casino-project.git
+```
 
 2. **Open the folder**
    Make sure your directory looks like this:
 ```
-      virtual-casino-project/
-  ├── virtual_casino.py
-  ├── Cards/
-  ├── PNGS/
-  └── README.md
+    virtual-casino-project/
+├── virtual_casino.py
+├── Cards/
+├── PNGS/
+└── README.md
 ```
 3. **Install dependencies**
 
 Open a terminal or command prompt in this folder and run:
 ```
-      pip install pygame
+pip install pygame
 ```
 4. **Run the game**
 
 In the same terminal, run:
 ```
-      python3 virtual_casino.py
+python3 virtual_casino.py
 ```
 A Pygame window will open with the casino’s main menu.  
 Use keyboard input to navigate and play the games.
